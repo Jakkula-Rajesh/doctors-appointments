@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "doctorId": 1,
+    "patientName": "Rahul Sharma",
+    "email": "rahul@example.com",
+    "dateTime": "2025-08-03T09:00"
+  }
+]

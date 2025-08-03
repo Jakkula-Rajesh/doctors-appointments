@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Asha Verma",
+    "specialization": "Cardiologist",
+    "profileImage": "https://randomuser.me/api/portraits/women/44.jpg",
+    "availability": "Available Today",
+    "schedule": ["2025-08-03T09:00", "2025-08-03T11:00", "2025-08-03T14:00"]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Ravi Singh",
+    "specialization": "Dermatologist",
+    "profileImage": "https://randomuser.me/api/portraits/men/46.jpg",
+    "availability": "Fully Booked",
+    "schedule": []
+  },
+  {
+    "id": 3,
+    "name": "Dr. Meera Patel",
+    "specialization": "Pediatrician",
+    "profileImage": "https://randomuser.me/api/portraits/women/47.jpg",
+    "availability": "On Leave",
+    "schedule": []
+  }
+]
